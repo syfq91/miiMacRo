@@ -30,7 +30,7 @@ U 1 1 60001F16
 P 9800 1850
 F 0 "U1" H 9800 2687 60  0000 C CNN
 F 1 "ProMicro" H 9800 2581 60  0000 C CNN
-F 2 "Keebio-Parts:ArduinoProMicro-ZigZag" H 9900 800 60  0001 C CNN
+F 2 "kbd:ProMicro_v3.5" H 9900 800 60  0001 C CNN
 F 3 "" H 9900 800 60  0000 C CNN
 	1    9800 1850
 	1    0    0    -1  
